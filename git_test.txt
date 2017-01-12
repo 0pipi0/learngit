@@ -1,2 +1,2 @@
 git_test
-test git is a version control system 
+test git is a distributed version control system 
